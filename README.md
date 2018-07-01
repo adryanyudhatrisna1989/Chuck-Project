@@ -2,7 +2,7 @@
 
 ### This project is about getting random jokes from an External API using pure JavaScript
 
-###Code Example
+### Code Example
 
 ```javascript
 function getJokes(e) {
